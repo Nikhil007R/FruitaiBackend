@@ -26,7 +26,7 @@ SECRET_KEY = os.getenv('django-insecure-=zcoy&45^0!r+l%+&174=lx=(71lfzp1h7gmtl4^
 # SECRET_KEY = 'django-insecure-=zcoy&45^0!r+l%+&174=lx=(71lfzp1h7gmtl4^bz8ta#*znr'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['fruitaibackend-9gxa.onrender.com', 'localhost']
 
